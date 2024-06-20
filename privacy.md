@@ -3,7 +3,7 @@
 **Last Updated: 07 June 2024**
 
 #### 1. Introduction
-This Privacy Policy explains how Flux collects, uses, and protects your information when you use our bot.
+This Privacy Policy explains how LunarX collects, uses, and protects your information when you use our bot.
 
 #### 2. Information We Collect
 - **User Data**: We collect Discord user IDs, usernames, and messages sent to the bot to facilitate commands and interactions.
